@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hello! Most of my experience is on embedded systems. These days, I've been  
-working mostly on real-time systems.
+mostly working with real-time systems.
 
 You can check my [CV](./cv).
 
