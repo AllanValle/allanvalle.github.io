@@ -26,3 +26,6 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem "webrick", "~> 1.8"
 end
+
+# Fixing bug https://github.com/ffi/ffi/issues/1103
+gem "ffi", "< 1.17.0"
